@@ -1,0 +1,8 @@
+scikit-learn==1.1.1
+numpy
+jcopml
+lightgbm==3.3.5
+matplotlib
+seaborn
+pandas
+streamlit
